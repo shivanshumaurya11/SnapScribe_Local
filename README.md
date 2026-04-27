@@ -370,13 +370,6 @@ Each layer is independent and can be tested/modified separately.
 - Support for more video platforms
 - Database for output history
 
-## 📄 License
-
-[Your License Here]
-
-## 🤝 Contributing
-
-[Contributing Guidelines]
 
 ---
 
